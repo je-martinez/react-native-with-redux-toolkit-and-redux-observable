@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import { Button, SafeAreaView, Text } from 'react-native';
 import { useAppDispatch } from 'store';
-import { increment } from 'store/slices';
 import { useAppSelector } from 'store/index';
+import { increment } from 'store/slices';
 
 const HomeScreen = (): JSX.Element => {
   const dispatch = useAppDispatch();
