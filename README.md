@@ -61,11 +61,3 @@ A React Native app showcasing state management using **Redux Toolkit** and react
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-### 🌟 **Built to Explore the Power of Redux Toolkit & Redux Observable in React Native!** 🌟
-
---- 
-
-Let me know if you need any specific tweaks or additions! 🚀
